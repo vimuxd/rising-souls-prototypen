@@ -1,5 +1,17 @@
 # Rising Souls · B × D
 
+## Landing Page Collection
+
+Three complete responsive landing-page directions are available at [landing/](landing/):
+
+- [Nocturne](landing/nocturne.html): cinematic charcoal, bronze sculpture and immersive product preview.
+- [Ember](landing/ember.html): photo-led copper editorial with the real Rising Souls team.
+- [Atelier](landing/atelier.html): warm ivory, sculptural art and an espresso dashboard.
+
+Each direction includes functional section navigation, keyboard-accessible app-preview tabs, interactive sample tasks, mobile layouts, reduced-motion support and a comparison switcher. CTAs open the existing app prototypes; these design studies do not register users or collect personal data.
+
+Custom artwork was generated using the built-in image-generation tool. [Asset notes and final prompts](landing/ARTWORK.md). Team photography comes from the existing Rising Souls landing asset library. The previous app prototypes are preserved.
+
 Four interactive design studies combining Nocturne's dark atmosphere with Atelier's Urbanist headlines/body and Unbounded numeric typography.
 
 - **Nocturne**: centered orbital progress, restrained dark surfaces.
