@@ -6,3 +6,12 @@
 @media(max-width:360px){.wrap{width:calc(100% - 32px)}.hero h1{font-size:44px;letter-spacing:-2.2px}.progress-card{gap:23px;padding:18px}.progress-orbit{width:90px;height:90px}.progress-copy h4{font-size:18px}.feature-list h3{font-size:20px}.closing h2{font-size:41px}.concept-bar>a{padding-inline:9px}}
 @media(max-width:550px){.hero-art{width:125%;left:-12.5%;top:235px;height:310px;opacity:.9;mask-image:linear-gradient(180deg,transparent,#000 18%,#000 77%,transparent)}.hero-art img{object-fit:contain}.hero-art:after{background:linear-gradient(0deg,var(--bg),transparent 35%)}.focus-card h4 br:after{content:' '}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.reveal-ready:not(.is-visible){opacity:1;transform:none}}
+
+/* The unchanged portrait from the original Rising Souls landing page. */
+.hero-art{left:auto;right:3%;top:0;width:52%;height:100%;opacity:1;mask-image:none;background:radial-gradient(ellipse at 65% 45%,#b8995c1c,transparent 68%)}
+.hero-art img{object-fit:contain;object-position:center bottom;mix-blend-mode:normal;opacity:1;animation:none}
+.hero-art:after{background:linear-gradient(0deg,var(--bg),transparent 18%),linear-gradient(90deg,var(--bg),transparent 22%)}
+.art-caption{right:7%;bottom:7%}.art-cross{right:8%;top:6%}
+@media(max-width:1100px){.hero-art{right:0;width:50%}}
+@media(max-width:780px){.hero-art{width:53%;right:0;top:30px;height:calc(100% - 30px);opacity:1}}
+@media(max-width:550px){.hero{min-height:0}.hero-content{padding-bottom:27px}.hero-art{width:100%;right:0;left:auto;top:265px;height:325px;max-height:none;mask-image:none;opacity:1}.hero-art img{object-fit:contain;object-position:center bottom}.hero-art:after{background:linear-gradient(0deg,var(--bg),transparent 14%)}.hero-copy{margin-top:350px}.hero-foot{margin-top:26px}.art-caption,.art-cross{display:none}}

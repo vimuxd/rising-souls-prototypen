@@ -2,6 +2,10 @@
 
 Created with the built-in image-generation tool; original team photography is from the existing Rising Souls public-landing asset library.
 
+## Shared original hero portrait
+
+All three hero sections and gallery previews use `landing/assets/hero-tamara.png`, copied byte-for-byte from the existing Rising Souls app asset `assets/landing/hero-cutout.png` (1031 × 1206, transparent PNG). No image generation, facial retouching, or raster modifications were used for the portrait. Only page layout and CSS backgrounds differ. The bronze artwork is retained as secondary decoration and is no longer the hero image.
+
 ## nocturne
 
 Saved project asset: `landing/assets/nocturne-sculpture.jpg` (web-optimized JPEG, 1536 × 1024).
@@ -32,5 +36,4 @@ Composition/framing: centered sculptural object with complete silhouette visible
 Lighting/mood: beautiful large softbox light from upper left, warm highlights with espresso-bronze shaded sides, strong yet gentle contact shadow, realistic global illumination. High-end collectible design gallery photography. Minimal, calm, extraordinary material realism.
 Constraints: one sculptural object only, no text, no letters, no logo, no watermark, no spheres or plants, not a web page screenshot. High resolution.
 ```
-
 

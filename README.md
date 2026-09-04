@@ -4,9 +4,9 @@
 
 Three complete responsive landing-page directions are available at [landing/](landing/):
 
-- [Nocturne](landing/nocturne.html): cinematic charcoal, bronze sculpture and immersive product preview.
+- [Nocturne](landing/nocturne.html): cinematic charcoal, Tamara's original portrait and immersive product preview.
 - [Ember](landing/ember.html): photo-led copper editorial with the real Rising Souls team.
-- [Atelier](landing/atelier.html): warm ivory, sculptural art and an espresso dashboard.
+- [Atelier](landing/atelier.html): warm ivory, Tamara's original portrait and an espresso dashboard.
 
 Each direction includes functional section navigation, keyboard-accessible app-preview tabs, interactive sample tasks, mobile layouts, reduced-motion support and a comparison switcher. CTAs open the existing app prototypes; these design studies do not register users or collect personal data.
 
